@@ -1,2 +1,3 @@
 # hello-world
-essai de création de dépôt
+Mal nommer les choses, c'est ajouter au malheur du monde.
+A. Camus
